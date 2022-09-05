@@ -21,5 +21,6 @@ class About extends Me {
 <hr></hr>
 
 [![card](https://github-readme-stats.vercel.app/api?username=danzok&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
+<br>
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=danzok.danzok)
 </div>

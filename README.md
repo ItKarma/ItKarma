@@ -8,8 +8,6 @@ class Sobre extends Eu {
     "OtherLanguages" : { "HTML", "CSS","Json" },
     "Database" : { "Mongodb" },
     "Editors" : { "Vscode", "Acode", "Neovim" },
-   // "Platforms" : { "GNU/Linux", "Windows" }
-  };
 }
 ```
 -  <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp; atualmente estou aprendendo **Nodejs**. <img width="15%" align="right" alt="Github Image" src="https://github.com/SP-XD/SP-XD/blob/main/images/linux_rounded.gif?raw=true" /><br>

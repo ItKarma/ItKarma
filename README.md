@@ -22,3 +22,7 @@ class Sobre extends Eu {
 <br>
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=danzok.danzok)
 </div>
+<div align="center">
+  <a href="https://github.com/danzok">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danzok&layout=compact&langs_count=7&theme=tokyonight"/>    
+</div>

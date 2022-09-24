@@ -4,7 +4,7 @@
 // tools_I_use organized
 class Sobre extends Eu { 
   const minhasFerramentas = {  
-    "ProgramingLanguages" : { "Javascript" },
+    "ProgramingLanguages" : { "Javascript" , "Typescript" },
     "OtherLanguages" : { "HTML", "CSS","Json" },
     "Database" : { "Mongodb" },
     "Editors" : { "Vscode", "Acode", "Neovim" },

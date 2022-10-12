@@ -3,11 +3,10 @@
 ```dart
 // tools_I_use organized
 class Sobre extends Eu { 
-  const minhasFerramentas = {  
-    "ProgramingLanguages" : { "Javascript" , "Typescript" },
-    "OtherLanguages" : { "HTML", "CSS","Json" },
-    "Database" : { "Mongodb" },
-    "Editors" : { "Vscode", "Acode", "Neovim" },
+  const me = {  
+    "years old" : { "19" },
+    "Name" : { "Danilo Lopez" },
+    "Focus" : { "backend action " }
 }
 ```
  <img width="100%"  aling="center" alt="Github Image" src="https://i.pinimg.com/originals/e1/85/18/e18518c6d24257c6fb02e3c95a862d85.gif?raw=true" /><br>

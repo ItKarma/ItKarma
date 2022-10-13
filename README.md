@@ -5,6 +5,7 @@
 const me = {
     name : "Danilo Lopes",
     situation : "studying",
+    language : [ "en" , "pt-br" ],
     age : 19
 }
 

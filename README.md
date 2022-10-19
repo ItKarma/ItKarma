@@ -1,15 +1,10 @@
 ## me
 
-```dart
 // me
-const me = {
-    name : "Danilo Lopes",
-    situation : "studying",
-    language : [ "en" , "pt-br" ],
-    age : 19
-}
 
-```
+ - hi , my name is danilo lopes
+  I do like in 
+
 ## my skills
 <div align="center">
 

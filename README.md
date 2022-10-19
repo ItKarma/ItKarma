@@ -1,9 +1,8 @@
 ## me
 
-// me
-
- - hi , my name is danilo lopes
-  I do like in 
+ - 💤  hi , my name is danilo lopes.
+ - 👾  I do like of Programming.
+ - 📚  I'm a Student Independent
 
 ## my skills
 <div align="center">

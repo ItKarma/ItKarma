@@ -1,8 +1,8 @@
 ## me
 
- - 💤  hi , my name is danilo lopes.
- - 👾  I do like of Programming.
- - 📚  I'm a Student Independent
+ - > 💤  hi , my name is danilo lopes.
+ - > 👾  I do like of Programming.
+ - > 📚  I'm a Student Independent
 
 ## my skills
 <div align="center">
@@ -15,9 +15,9 @@
 
  <img width="100%"  aling="center" alt="Github Image" src="https://i.pinimg.com/originals/e1/85/18/e18518c6d24257c6fb02e3c95a862d85.gif?raw=true" /><br>
 
--  <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp; I'm currently learning **typescript**.
+- > <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp; I'm currently learning **typescript**.
 <!-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; I like exploring **GNU/Linux**. <br>-->
-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" /> &nbsp; Find me on Telegram : **[{...danzok}](https://t.me/danzokk)**<br>
+- > <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" /> &nbsp; Find me on Telegram : **[{...danzok}](https://t.me/danzokk)**<br>
 </div>
 <div align="center" >
 <hr></hr>

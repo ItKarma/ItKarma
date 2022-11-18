@@ -1,9 +1,27 @@
-## me
+#me
+<h2>Hello World ☕</h2>
 
- - > 💤  Olá, me chamo danilo lopes.
- - > 👾  eu gosto de programar.
- - > 📚  Sou Estudante Independente.
- - > ☕  Crios apps com javascript e nodejs.
+<p> Ola sou o danilo lopes, ou mais conhecido como danzok, sou um garoto que desenvolve projetos pessoas com intuito de aprender progamacao na area back-end com linguages javascript e typescript. Extremamente apaixonado por progamaçao e cultura japonesa.</p>
+
+</br>
+
+<h3>Caso queira me contatar</h3> 
+
+<div align="left">
+  <a href="https://www.instagram.com/danzok.dev/" alt="Instagram">
+    <img src="https://img.shields.io/badge/-Instagram-ff3a5e?style=for-the-badge&logo=Instagram&logoColor=FFF"/>
+  </a>
+  
+  <a href="https://www.linkedin.com/in/danilo-lopes-085826237/" alt="Linkedin">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  
+ <a href="https://t.me/danzokk" alt="whatsapp">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
+  </a>
+ 
+</div>
+
 
 ## my skills
 <div align="center">

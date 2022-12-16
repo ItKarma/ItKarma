@@ -1,5 +1,5 @@
 
-<h2>Hello World ☕</h2>
+<h2>Welcome to my resume a coffee? ☕</h2>
 
 <p> Olá sou o danilo lopes, ou mais conhecido como danzok, sou um garoto que desenvolve projetos pessoais com intuito de aprender programação na area back-end com linguages javascript e typescript. um amador em progamaçao e cultura japonesa.</p>
 
@@ -42,7 +42,7 @@
 
 [![card](https://github-readme-stats.vercel.app/api?username=danzok&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 <br>
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=danzok.danzok)
+![:name](https://count.getloli.com/get/@:danzok)
 </div>
 <div align="center">
   <a href="https://github.com/danzok">

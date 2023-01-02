@@ -1,7 +1,7 @@
 
 <h2>Welcome to my resume a coffee? ☕</h2>
 
-<p> Olá sou o danilo lopes, ou mais conhecido como danzok, sou um garoto que desenvolve projetos pessoais com intuito de aprender programação na area back-end com linguages javascript e typescript. um amador em progamaçao e cultura japonesa.</p>
+<p> Olá sou o danilo lopes, ou mais conhecido como danzok, sou um garoto que desenvolve projetos pessoais com intuito de aprender programação na area back-end com linguages javascript e typescript. um amador em progamaçao e um viciado em cultura japonesa.</p>
 
 </br>
 

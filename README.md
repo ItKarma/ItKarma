@@ -1,11 +1,11 @@
 
 <h2>Welcome to my resume a coffee? ☕</h2>
 
-<p> Olá sou o danilo lopes, ou mais conhecido como danzok, sou um garoto que desenvolve projetos pessoais com intuito de aprender programação na area back-end com linguages javascript e typescript. um amador em progamaçao e um viciado em cultura japonesa.</p>
+<p> Hello, I'm danilo lopes, or better known as danzok, I'm a guy who develops personal projects with the intention of learning programming in the back-end area with javascript and typescript languages. a programming amateur and a japanese culture junkie.</p>
 
 </br>
 
-<h3>Caso queira me contatar</h3> 
+<h3>contact me if you want</h3> 
 
 <div align="left">
   <a href="https://www.instagram.com/danzok.dev/" alt="Instagram">

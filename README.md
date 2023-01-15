@@ -23,7 +23,7 @@
 </div>
 
 
-## my skills
+## skills
 <div align="center">
 
  <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -34,13 +34,14 @@
   
   <div align="center" >
 <hr></hr>
-
+ 👤 Visitors
 <br>
 
 ![:count](https://count.getloli.com/get/@danzok?theme=rule34)
   
   <br>
-
+ 🎧 Listening
+  
   [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31uijvvyt7ena2frc5hlp57rtbxe&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
   
 </div>

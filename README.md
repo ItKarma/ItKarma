@@ -40,11 +40,9 @@
 <div align="center" >
 <hr></hr>
 
-[![card](https://github-readme-stats.vercel.app/api?username=danzok&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 <br>
+
 ![:count](https://count.getloli.com/get/@danzok?theme=rule34)
+
 </div>
-<div align="center">
-  <a href="https://github.com/danzok">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danzok&layout=compact&langs_count=7&theme=tokyonight"/>    
-</div>
+

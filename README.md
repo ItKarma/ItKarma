@@ -38,15 +38,7 @@
 <br>
 
 ![:count](https://count.getloli.com/get/@danzok?theme=rule34)
-  
-  <br>
- 🎧 Listening
-  
-  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31uijvvyt7ena2frc5hlp57rtbxe&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
-  
-</div>
 
-- > <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp; no momento estou aprendendo **typescript**.
-- > <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" /> &nbsp; Encontre-me no Telegram : **[{...danzok}](https://t.me/Thedanzok)**<br>
+</div>
 </div>
 

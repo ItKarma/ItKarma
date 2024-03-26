@@ -12,7 +12,7 @@
 ```js
 let set = require("./set.js");
 
-set("zelferry", {
+set("danzok", {
    furry: true,
    have_dreams: true,
    programming_where: [

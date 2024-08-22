@@ -6,7 +6,7 @@
 ### About me
 
 - 📚 **Learning Style**: Self-taught,[Website](https://edools-3-production.s3.amazonaws.com/org-6988/school-7227/certificates/enrollment-8166692/course-84414-xipci.pdf) I participated in CC50, at the Study in Practice Foundation
--  👤 - hello, my name is danilo lopes , but you can call me Karma. I'm a Back-end developer from Brazil, 20 years old and 3 years of coding.
+-  👤 - hello, you can call me Karma. I'm a Back-end developer from Brazil, 20 years old and 3 years of coding.
 
 ```js
 let set = require("./set.js");

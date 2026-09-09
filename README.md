@@ -1,35 +1,118 @@
+# Hi, I'm Danilo 👋
 
- I'm Danilo ! :D
- 
-### About me
+You can call me **Karma**.
 
-- 📚 **Learning Style**: Self-taught,[Website](https://edools-3-production.s3.amazonaws.com/org-6988/school-7227/certificates/enrollment-8166692/course-84414-xipci.pdf) I participated in CC50, at the Study in Practice Foundation
--  👤 - hello, you can call me Karma. I'm a Back-end developer from Brazil,  5+ years of coding, but only with personal projects.
+I'm a **Backend Developer from Brazil**, focused on building APIs, backend systems and real-world applications.
 
-```
-      "Since I doubt, I think, since I think, therefore I am.",
-```
+I've been coding for several years, primarily through **hands-on personal projects and self-directed learning**. I enjoy understanding how systems work under the hood and turning ideas into functional software.
 
+> *"Since I doubt, I think; since I think, therefore I am."*
 
-## skills
-<div align="center">
+---
 
- <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)   ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) <img alt="NodeJS" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/> ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+## 🚀 What I do
 
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+* 🔧 Build backend APIs and services
+* 🗄️ Design and work with relational and NoSQL databases
+* ⚡ Build real-time applications and integrations
+* 🐳 Containerize and deploy applications
+* 🔐 Work with authentication, security and API architecture
+* 🧠 Learn by building and solving real problems
 
-  ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
-  ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-  ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-  ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-  ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)
-  <div align="center" >
-<hr></hr>
- 👤 Visitors
-<br>
+---
 
-![:count](https://count.getloli.com/get/@ItKarma?theme=rule10)
+## 🛠️ Tech Stack
 
-</div>
-</div>
+### Backend
 
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=flat-square\&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-000?style=flat-square\&logo=typescript)
+![Go](https://img.shields.io/badge/Go-000?style=flat-square\&logo=go)
+![Node.js](https://img.shields.io/badge/Node.js-000?style=flat-square\&logo=node.js)
+![Express.js](https://img.shields.io/badge/Express.js-000?style=flat-square\&logo=express)
+
+### Databases
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=flat-square\&logo=postgresql)
+![MySQL](https://img.shields.io/badge/MySQL-000?style=flat-square\&logo=mysql)
+![MariaDB](https://img.shields.io/badge/MariaDB-000?style=flat-square\&logo=mariadb)
+![MongoDB](https://img.shields.io/badge/MongoDB-000?style=flat-square\&logo=mongodb)
+![SQLite](https://img.shields.io/badge/SQLite-000?style=flat-square\&logo=sqlite)
+
+### Infrastructure & Cloud
+
+![Docker](https://img.shields.io/badge/Docker-000?style=flat-square\&logo=docker)
+![AWS](https://img.shields.io/badge/AWS-000?style=flat-square\&logo=amazon-aws)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-000?style=flat-square\&logo=google-cloud)
+
+### Other
+
+![Sequelize](https://img.shields.io/badge/Sequelize-000?style=flat-square\&logo=sequelize)
+![Git](https://img.shields.io/badge/Git-000?style=flat-square\&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-000?style=flat-square\&logo=github)
+
+---
+
+## 📚 Learning
+
+I'm a **self-taught developer** and believe that the best way to learn software engineering is by building things.
+
+🎓 **CC50 — Fundação Estudar**
+
+My learning process is mainly based on:
+
+* Building personal projects
+* Reading documentation
+* Studying existing systems
+* Experimenting with new technologies
+* Solving real-world problems
+
+---
+
+## 🔭 Currently
+
+I'm currently focused on improving my skills in:
+
+* Backend architecture
+* Distributed systems
+* Real-time communication
+* Database design
+* System reliability
+* Cloud infrastructure
+
+---
+
+## 📌 Featured Projects
+
+Some of the projects I've built and worked on:
+
+**Marketplace / Delivery Platform**
+A local marketplace platform with customer ordering, merchant management, payments and real-time order updates.
+
+**Proxy Management Platform**
+A backend system for managing proxy infrastructure, sessions, authentication and high-volume requests.
+
+**Real-time Backend Systems**
+Projects involving WebSockets, event-driven communication and state synchronization.
+
+> More projects are available throughout my repositories.
+
+---
+
+## 📊 GitHub
+
+You can find my projects, experiments and ongoing work across my repositories.
+
+---
+
+## 📫 Contact
+
+If you'd like to talk about software, backend development, projects or technology, feel free to reach out.
+
+**Linkedin:** [@DaniloCDev](https://www.linkedin.com/in/danilo-c-dev/)
+
+---
+
+<p align="center">
+  <i>Building, breaking, learning, and building again.</i>
+</p>

@@ -8,8 +8,6 @@
 
 ```
       "Since I doubt, I think, since I think, therefore I am.",
-      "I don't have a dime, but I always have a positive outlook",
-      "I'm a man on a mission",
 ```
 
 
